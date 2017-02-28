@@ -1,6 +1,0 @@
-[submodule "YoRPG"]
-	path = YoRPG
-	url = https://github.com/matteowong/YoRPG_DefendersOfJava.git
-[submodule "ShakaLaka"]
-	path = ShakaLaka
-	url = https://github.com/matteowong/ShakaLakaDingDong.git
