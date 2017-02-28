@@ -1,0 +1,3 @@
+[submodule "YoRPG"]
+	path = YoRPG
+	url = https://github.com/matteowong/YoRPG_DefendersOfJava.git
